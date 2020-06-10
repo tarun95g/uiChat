@@ -1,4 +1,4 @@
-# cj-app
+# ui-chat
 Angular 7 SPA
 
 
@@ -16,5 +16,3 @@ PROJECT START STEPS:
             - ng serve
     
     2. To run locally , run ng serve and go to http://localhost:4200 in your browser to view it.
-
-
