@@ -1,0 +1,11 @@
+<section class="msger">
+    <header class="msger-header">
+      <div class="msger-header-title">
+         Chat
+      </div>
+    </header>
+  
+    <main class="msger-chat">
+        <app-chat-item *ngFor="let chat of chatList;let i=index" [chat]="chat"></app-chat-item>
+      </main>
+    </section>
